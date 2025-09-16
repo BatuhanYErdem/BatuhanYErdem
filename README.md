@@ -25,5 +25,5 @@
 
 
 ### Contact
-- LinkedIn: linkedin.com/in/yaşar-batuhan-erdem-836a7a303/
+- LinkedIn: www.linkedin.com/in/yaşar-batuhan-erdem-836a7a303/
 - Mail: batuhan.erdem18@gmail.com
