@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Batuhan Erdem 👋</h1>
+<p align="center">Python • Game Dev • Flutter • .NET</p>
 
-<!--
-**BatuhanYErdem/BatuhanYErdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://img.shields.io/badge/Made%20with-Python-3776AB" />
+<img src="https://img.shields.io/badge/Framework-Pygame-blue" />
+<img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Featured
+- 🎮 **Dodge the Blocks** — mini arcade: dodge & survive → [Repo](https://github.com/<BatuhanYErdem>/dodge-the-blocks)
+- 🚀 **Fight the Block** — shooter: power‑ups, particles, high score → [Repo](https://github.com/<BatuhanYErdem>/fight-the-block)
+
+
+### Tech Stack
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32"/>
+</p>
+
+
+### Contact
+- LinkedIn: linkedin.com/in/yaşar-batuhan-erdem-836a7a303
+- Mail: batuhan.erdem18@gmail.com
