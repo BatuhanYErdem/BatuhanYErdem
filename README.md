@@ -10,8 +10,8 @@
 
 
 ### Featured
-- 🎮 **Dodge the Blocks** — mini arcade: dodge & survive → [Repo](https://github.com/<BatuhanYErdem>/dodge-the-blocks)
-- 🚀 **Fight the Block** — shooter: power‑ups, particles, high score → [Repo](https://github.com/<BatuhanYErdem>/fight-the-block)
+- 🎮 **Dodge the Blocks** — mini arcade: dodge & survive → [Repo](https://github.com/BatuhanYErdem/dodge-the-blocks)
+- 🚀 **Fight the Block** — shooter: power‑ups, particles, high score → [Repo](https://github.com/BatuhanYErdem/fight-the-block)
 
 
 ### Tech Stack
